@@ -37,7 +37,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Will24300&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will24300&layout=compact&hide_border=true" />
 </p>
 
